@@ -1,0 +1,240 @@
+[
+  {
+    "title": "The Pursuit of Happyness",
+    "mood": "sad",
+    "feel": "motivated",
+    "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "3 Idiots",
+    "mood": "bored",
+    "feel": "inspired",
+    "description": "Two friends embark on a quest to find their long-lost companion, learning valuable life lessons along the way.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Zindagi Na Milegi Dobara",
+    "mood": "stressed",
+    "feel": "refreshed",
+    "description": "Three friends take a road trip across Spain, confronting their fears and discovering themselves.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Forrest Gump",
+    "mood": "confused",
+    "feel": "enlightened",
+    "description": "The life journey of a simple man with a low IQ who witnesses and influences several historical events.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Dil Chahta Hai",
+    "mood": "happy",
+    "feel": "joyful",
+    "description": "Three inseparable friends navigate love, friendship, and life's challenges together.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "mood": "sad",
+    "feel": "inspired",
+    "description": "Two imprisoned men bond over years, finding solace and eventual redemption through acts of common decency.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Taare Zameen Par",
+    "mood": "sad",
+    "feel": "heartwarmed",
+    "description": "An eight-year-old boy with dyslexia finds hope through an art teacher who understands him.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "The Lion King",
+    "mood": "tired",
+    "feel": "empowered",
+    "description": "A young lion prince flees his kingdom, only to learn the true meaning of responsibility and bravery.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Queen",
+    "mood": "confused",
+    "feel": "empowered",
+    "description": "A young woman goes on her honeymoon alone and discovers her own identity and confidence.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Up",
+    "mood": "sad",
+    "feel": "heartwarmed",
+    "description": "An elderly widower embarks on an adventure to South America with an unlikely companion.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Bhaag Milkha Bhaag",
+    "mood": "angry",
+    "feel": "motivated",
+    "description": "The inspiring true story of athlete Milkha Singh who overcame adversity to become a champion.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Dead Poets Society",
+    "mood": "bored",
+    "feel": "inspired",
+    "description": "An English teacher inspires his students to seize the day and make their lives extraordinary.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "mood": "romantic",
+    "feel": "heartwarmed",
+    "description": "Two strangers fall in love during a European trip and fight to be together against all odds.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "The Notebook",
+    "mood": "romantic",
+    "feel": "heartwarmed",
+    "description": "A poor yet passionate young man falls in love with a rich young woman in 1940s South Carolina.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Good Will Hunting",
+    "mood": "confused",
+    "feel": "enlightened",
+    "description": "A troubled genius janitor discovers his potential with help from a therapist.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Rocky",
+    "mood": "angry",
+    "feel": "motivated",
+    "description": "A small-time boxer gets a rare chance to fight the heavyweight champion.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Wake Up Sid",
+    "mood": "bored",
+    "feel": "refreshed",
+    "description": "A lazy Mumbai college student discovers life and responsibility when he moves in with a friend.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Inception",
+    "mood": "adventurous",
+    "feel": "thrilled",
+    "description": "A thief who steals corporate secrets through dream-sharing technology is given a chance at redemption.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "English Vinglish",
+    "mood": "sad",
+    "feel": "empowered",
+    "description": "A housewife enrolls in an English-speaking course to stop her family from mocking her.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Finding Nemo",
+    "mood": "tired",
+    "feel": "heartwarmed",
+    "description": "A clownfish searches the ocean for his abducted son with the help of a forgetful fish.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Gully Boy",
+    "mood": "angry",
+    "feel": "empowered",
+    "description": "A young man from Mumbai's slums pursues his dream of becoming a rapper.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "La La Land",
+    "mood": "romantic",
+    "feel": "inspired",
+    "description": "An aspiring actress and a jazz musician fall in love while pursuing their dreams in Los Angeles.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "The Dark Knight",
+    "mood": "excited",
+    "feel": "thrilled",
+    "description": "Batman faces his greatest challenge yet when the Joker emerges as a chaos-driven criminal mastermind.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Dangal",
+    "mood": "angry",
+    "feel": "motivated",
+    "description": "A former wrestler trains his daughters to become world-class wrestlers, defying societal norms.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "The Secret Life of Walter Mitty",
+    "mood": "bored",
+    "feel": "adventurous",
+    "description": "A daydreamer escapes his mundane life by embarking on a global adventure.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Swades",
+    "mood": "confused",
+    "feel": "enlightened",
+    "description": "A NASA scientist returns to India and rediscovers his roots while trying to improve village life.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Soul",
+    "mood": "confused",
+    "feel": "peaceful",
+    "description": "A musician's soul gets separated from his body and he must find his way back before it's too late.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Yeh Jawaani Hai Deewani",
+    "mood": "happy",
+    "feel": "joyful",
+    "description": "During a trekking trip, an introverted girl meets a carefree traveler and their lives intertwine.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Interstellar",
+    "mood": "adventurous",
+    "feel": "enlightened",
+    "description": "A team of explorers travel through a wormhole in space to ensure humanity's survival.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Barfi",
+    "mood": "romantic",
+    "feel": "heartwarmed",
+    "description": "A deaf-mute man falls in love with an autistic girl, creating a beautiful and touching story.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "mood": "bored",
+    "feel": "thrilled",
+    "description": "A legendary concierge and his protégé become friends amidst the theft of a priceless painting.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Chak De! India",
+    "mood": "angry",
+    "feel": "empowered",
+    "description": "A disgraced hockey player coaches the Indian women's hockey team to glory.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "The Devil Wears Prada",
+    "mood": "stressed",
+    "feel": "motivated",
+    "description": "A young woman lands a job as assistant to a powerful fashion magazine editor.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  },
+  {
+    "title": "Andhadhun",
+    "mood": "bored",
+    "feel": "thrilled",
+    "description": "A blind pianist becomes embroiled in a series of mysterious events involving murder.",
+    "poster": "/placeholder.svg?height=450&width=300"
+  }
+]

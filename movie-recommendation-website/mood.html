@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Your Mood - MoodFix</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="mood-container">
+            <div class="mood-header">
+                <h1 class="brand-title">🎬 MoodFix</h1>
+                <button onclick="handleLogout()" class="btn btn-secondary btn-small">Logout</button>
+            </div>
+            
+            <div class="mood-box">
+                <h2>How are you feeling?</h2>
+                <p class="subtitle">Let's find the perfect movie for your mood</p>
+                
+                <form id="moodForm" class="mood-form">
+                    <div class="form-group">
+                        <label for="currentMood">What's your current mood?</label>
+                        <select id="currentMood" name="currentMood" required>
+                            <option value="">Select your mood...</option>
+                            <option value="happy">😊 Happy</option>
+                            <option value="sad">😢 Sad</option>
+                            <option value="bored">😐 Bored</option>
+                            <option value="tired">😴 Tired</option>
+                            <option value="angry">😠 Angry</option>
+                            <option value="confused">🤔 Confused</option>
+                            <option value="romantic">💕 Romantic</option>
+                            <option value="adventurous">🌟 Adventurous</option>
+                            <option value="stressed">😰 Stressed</option>
+                            <option value="excited">🎉 Excited</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="desiredFeeling">How do you want to feel after?</label>
+                        <select id="desiredFeeling" name="desiredFeeling" required>
+                            <option value="">Select desired feeling...</option>
+                            <option value="motivated">💪 Motivated</option>
+                            <option value="refreshed">✨ Refreshed</option>
+                            <option value="heartwarmed">❤️ Heartwarmed</option>
+                            <option value="relaxed">😌 Relaxed</option>
+                            <option value="inspired">🌈 Inspired</option>
+                            <option value="thrilled">🔥 Thrilled</option>
+                            <option value="peaceful">☮️ Peaceful</option>
+                            <option value="empowered">👑 Empowered</option>
+                            <option value="joyful">😄 Joyful</option>
+                            <option value="enlightened">🧠 Enlightened</option>
+                        </select>
+                    </div>
+                    
+                    <button type="submit" class="btn btn-primary btn-full">Get Recommendations</button>
+                </form>
+            </div>
+            
+            <div id="loadingMessage" class="loading-message" style="display: none;">
+                <div class="spinner"></div>
+                <p>Finding perfect movies for you...</p>
+            </div>
+            
+            <div id="recommendationsSection" class="recommendations-section" style="display: none;">
+                <h2>Your Movie Recommendations</h2>
+                <div id="movieResults" class="movie-grid"></div>
+                <button onclick="showMoodSelector()" class="btn btn-secondary">Choose Different Mood</button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+    <script>
+        checkAuth();
+        document.getElementById('moodForm').addEventListener('submit', handleMoodSelection);
+    </script>
+</body>
+</html>
